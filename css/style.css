@@ -2616,12 +2616,12 @@ a.waves-effect .waves-ripple {
   overflow-y: auto;
 }
 #menu .nav li {
-  padding: 0 50px;
+  padding: 0 20px;
 }
 #menu .nav li .icon {
   position: absolute;
   top: 0;
-  left: 50px;
+  left: 20px;
   line-height: inherit;
 }
 #menu .nav li:hover,
@@ -2636,7 +2636,7 @@ a.waves-effect .waves-ripple {
 }
 #menu .nav a {
   display: block;
-  padding-left: 120px;
+  padding-left: 48px;
   height: 44px;
   line-height: 44px;
   font-weight: 500;
@@ -2647,12 +2647,12 @@ a.waves-effect .waves-ripple {
   width: 100%;
   font-size: 12px;
   font-family: Consolas, Monaco, courier, monospace;
-  padding: 10px 50px;
+  padding: 10px 20px;
   border-top: 1px solid #dadada;
 }
 #menu .footer .rss {
   position: absolute;
-  right: 50px;
+  right: 20px;
   top: 17px;
   color: #E64A19;
 }
