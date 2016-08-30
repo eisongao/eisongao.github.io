@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>爱折腾ing</title>
-  <subtitle>记录美好的一天</subtitle>
+  <subtitle>用心记录美好的一天</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://eisongao.github.io/"/>
