@@ -2784,7 +2784,7 @@ a[title="站长统计"] {
 @media screen and (max-width: 760px) {
   .content-header {
     margin: 0;
-    padding: 72px 16px 20px;
+    padding: 43px 16px 7px;
   }
   .content-header .author {
     font-size: 24px;
