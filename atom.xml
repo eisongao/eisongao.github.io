@@ -4,9 +4,9 @@
   <subtitle>用心记录美好的一天</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://eisongao.github.io/"/>
-  <updated>2016-08-31T02:30:57.344Z</updated>
-  <id>https://eisongao.github.io/</id>
+  <link href="http://flyerny.ga/"/>
+  <updated>2016-08-30T17:44:29.274Z</updated>
+  <id>http://flyerny.ga/</id>
   
   <author>
     <name>Flyer</name>
@@ -16,25 +16,9 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Frontopen3 for Emlog 测试版</title>
-    <link href="https://eisongao.github.io/2016/08/30/Frontopen3-for-Emlog-%E6%B5%8B%E8%AF%95%E7%89%88/"/>
-    <id>https://eisongao.github.io/2016/08/30/Frontopen3-for-Emlog-测试版/</id>
-    <published>2016-08-30T19:25:43.000Z</published>
-    <updated>2016-08-31T02:30:57.344Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="模板,主题,Emlog" scheme="https://eisongao.github.io/tags/%E6%A8%A1%E6%9D%BF-%E4%B8%BB%E9%A2%98-Emlog/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
-    <link href="https://eisongao.github.io/2016/08/30/hello-world/"/>
-    <id>https://eisongao.github.io/2016/08/30/hello-world/</id>
+    <link href="http://flyerny.ga/2016/08/30/hello-world/"/>
+    <id>http://flyerny.ga/2016/08/30/hello-world/</id>
     <published>2016-08-30T17:44:29.273Z</published>
     <updated>2016-08-30T17:44:29.274Z</updated>
     
