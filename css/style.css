@@ -2613,7 +2613,6 @@ a.waves-effect .waves-ripple {
   padding: 12px 0;
   list-style: none;
   line-height: 44px;
-  overflow-y: auto;
 }
 #menu .nav li {
   padding: 0 20px;
