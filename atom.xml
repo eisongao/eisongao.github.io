@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://flyerny.ga/"/>
-  <updated>2016-08-31T17:02:10.879Z</updated>
+  <updated>2016-08-31T17:04:14.913Z</updated>
   <id>http://flyerny.ga/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://flyerny.ga/2016/08/31/newyork/"/>
     <id>http://flyerny.ga/2016/08/31/newyork/</id>
     <published>2016-08-31T16:56:06.000Z</published>
-    <updated>2016-08-31T17:02:10.879Z</updated>
+    <updated>2016-08-31T17:04:14.913Z</updated>
     
     <content type="html"><![CDATA[<p>纽约是一个光怪陆离的地方。小说《北京人在纽约》的一句话，让我浮想联翩：“如果爱一个人，就让他到纽约吧，因为纽约是天堂；如果恨一个人，就让他到纽约吧，因为纽约是地狱。”</p>
 <p>纽约，严格意义上仅仅是一座岛屿，两条注入海洋的河流将它分成了几个相对独立的区域，不过，人们谈起纽约，还是会首先想到曼哈顿和华尔街，于是这个地方首先成为我们参观的首选之地。从曼哈顿下城最南端眺望远处的自由女神像，这座法国人送给美国人的礼物已经成为纽约的第一地标，尤其是在世贸双子塔被摧毁后，来这里的人们更是络绎不绝。</p>
@@ -33,6 +33,12 @@
     
     </summary>
     
+    
+      <category term="纽约" scheme="http://flyerny.ga/tags/%E7%BA%BD%E7%BA%A6/"/>
+    
+      <category term="生活" scheme="http://flyerny.ga/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="说说" scheme="http://flyerny.ga/tags/%E8%AF%B4%E8%AF%B4/"/>
     
   </entry>
   
