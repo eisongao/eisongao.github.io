@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://flyerny.ga/"/>
-  <updated>2016-08-31T17:42:37.977Z</updated>
+  <updated>2016-09-01T17:55:55.858Z</updated>
   <id>http://flyerny.ga/</id>
   
   <author>
@@ -16,11 +16,64 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>CSS3文字横向滑入效果</title>
+    <link href="http://flyerny.ga/2016/09/01/CSS3-Text-Effects-lateral-slide/"/>
+    <id>http://flyerny.ga/2016/09/01/CSS3-Text-Effects-lateral-slide/</id>
+    <published>2016-09-01T17:47:53.000Z</published>
+    <updated>2016-09-01T17:55:55.858Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h2><pre><code>&gt; .slidemeta {
+&gt;     display: none;  
+&gt;     right:0;
+&gt;     position: absolute;
+&gt;     font-size: 14px;
+&gt;     color: #ccc;
+&gt;     font-family:arial
+&gt; }
+&gt; 
+&gt; h1:hover .slidemeta{
+&gt;     display:block;
+&gt;     -webkit-animation:slide .8s ease-in;  
+&gt;     -webkit-animation-fill-mode:forwards; 
+&gt;     -moz-animation:slide .8s ease-in;  
+&gt;     -moz-animation-fill-mode:forwards;
+&gt; }
+&gt; @-webkit-keyframes slide{  
+&gt;     0%   { right:410px; opacity:0;}  
+&gt;     70%  { right:0;opacity:0.7}
+&gt;     100% { opacity:1;right:85px;}  
+&gt; }  
+&gt; @-moz-keyframes slide{  
+&gt;     0%   { right:410px; opacity:0;}  
+&gt;     70%  { right:0;opacity:0.7}
+&gt;     100% { opacity:1;right:85px;}   
+&gt; }
+</code></pre><h2 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h2><pre><code>&lt;h1&gt;&lt;div class=&quot;slidemeta&quot;&gt;文字&lt;/div&gt;&lt;h1&gt;
+</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;CSS&quot;&gt;&lt;a href=&quot;#CSS&quot; class=&quot;headerlink&quot; title=&quot;CSS&quot;&gt;&lt;/a&gt;CSS&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;&amp;gt; .slidemeta {
+&amp;gt;     display: none;  
+&amp;gt;     right
+    
+    </summary>
+    
+    
+      <category term="css3" scheme="http://flyerny.ga/tags/css3/"/>
+    
+      <category term="横向" scheme="http://flyerny.ga/tags/%E6%A8%AA%E5%90%91/"/>
+    
+      <category term="滑入" scheme="http://flyerny.ga/tags/%E6%BB%91%E5%85%A5/"/>
+    
+  </entry>
+  
+  <entry>
     <title>iPad Air/iPad mini突然黑屏死机怎么办？</title>
     <link href="http://flyerny.ga/2016/08/31/iPad-Air-iPad-mini-repair/"/>
     <id>http://flyerny.ga/2016/08/31/iPad-Air-iPad-mini-repair/</id>
     <published>2016-08-31T17:23:28.000Z</published>
-    <updated>2016-08-31T17:42:37.977Z</updated>
+    <updated>2016-09-01T17:50:41.750Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>iPad Air/iPad mini突然黑屏死机怎么办？在使用iPad air或iPad mini的过程中，由于系统临时性故障，可能会导致突然黑屏死机的问题。下面简单介绍下当iPad平板突然黑屏死机时的处理方法（仅供参考）。</p>
@@ -41,15 +94,11 @@
     </summary>
     
     
-      <category term="临时性" scheme="http://flyerny.ga/tags/%E4%B8%B4%E6%97%B6%E6%80%A7/"/>
-    
       <category term="mini" scheme="http://flyerny.ga/tags/mini/"/>
     
-      <category term="电源" scheme="http://flyerny.ga/tags/%E7%94%B5%E6%BA%90/"/>
+      <category term="黑屏" scheme="http://flyerny.ga/tags/%E9%BB%91%E5%B1%8F/"/>
     
       <category term="检测" scheme="http://flyerny.ga/tags/%E6%A3%80%E6%B5%8B/"/>
-    
-      <category term="苹果" scheme="http://flyerny.ga/tags/%E8%8B%B9%E6%9E%9C/"/>
     
   </entry>
   
