@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://flyerny.ga/"/>
-  <updated>2016-09-01T17:55:55.858Z</updated>
+  <updated>2016-09-01T18:20:30.846Z</updated>
   <id>http://flyerny.ga/</id>
   
   <author>
@@ -14,6 +14,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Frontopen3 for Emlog</title>
+    <link href="http://flyerny.ga/2016/09/01/Frontopen3-for-Emlog/"/>
+    <id>http://flyerny.ga/2016/09/01/Frontopen3-for-Emlog/</id>
+    <published>2016-09-01T18:09:53.000Z</published>
+    <updated>2016-09-01T18:20:30.846Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>今天给大家带来一款全新的Frontopen3模板，跟以前的Frontopen2基本上不一样了，会不会眼前一亮我就不知道了！~ 也算是完成了以前的承诺了，以前哪款的Frontopen3就不弄了，我都不知道扔哪里去了！~虽说不错！~<br>话说现在基本也不玩Emlog了！~没啥好折腾了！~ 转去wordpress了！~</p>
+<h2 id="接下来为大家介绍下Frontopen3"><a href="#接下来为大家介绍下Frontopen3" class="headerlink" title="接下来为大家介绍下Frontopen3"></a>接下来为大家介绍下Frontopen3</h2></blockquote>
+<p>Frontopen3设计了6种样式，分别是企业、博客、视频、图片、论坛、cms<br>瀑布流，无限下拉</p>
+<p>自带幻灯片，可在后台选择</p>
+<p>前台自带分类导航、随机文章</p>
+<p>自带FancyZoom、 源码压缩、  头像缓存、  评论信息、  瀑布流</p>
+<p>带四个广告位</p>
+<p>等等</p>
+<h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="http://www.xinha.net/zb_users/upload/2016/08/20160826221331_77793.png" alt=""></p>
+<p><a href="https://github.com/eisongao/frontopen" target="_blank" rel="external">下载地址</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;今天给大家带来一款全新的Frontopen3模板，跟以前的Frontopen2基本上不一样了，会不会眼前一亮我就不知道了！~ 也算是完成了以前的承诺了，以前哪款的Frontopen3就不弄了，我都不知道扔哪里去了！~虽说不错！~&lt;br&gt;话说现在基本
+    
+    </summary>
+    
+    
+      <category term="emlog" scheme="http://flyerny.ga/tags/emlog/"/>
+    
+      <category term="模板" scheme="http://flyerny.ga/tags/%E6%A8%A1%E6%9D%BF/"/>
+    
+  </entry>
   
   <entry>
     <title>CSS3文字横向滑入效果</title>
