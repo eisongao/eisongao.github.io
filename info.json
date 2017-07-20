@@ -1,6 +1,7 @@
 {
     "version":"6.0",
-    "info":"小助手提示你现在有最新版本,请尽快获取最新安装包并升级为最新版本!",
+    "info_cn":"小助手提示你现在有最新版本,请尽快获取最新安装包并升级为最新版本!",
+    "info_en":"There is a new version. Please update it.",
     "details_url" : "https://crazy.ga",
     "last_time":"2017-07-30",
     "download_url" : "http://flyercn.ml/update.zip"
