@@ -1,8 +1,8 @@
 {
     "version":"6.0",
-    "fix_bug":"0",
-    "info_cn":"小助手提示你现在有最新版本,请尽快获取最新安装包并升级为最新版本!",
-    "info_en":"There is a new version. Please update it.",
+    "fix_bug":"1",
+    "info_cn":"应用商店微调整下,修复后台回复带有script脚本会运行问题,顺便测更新功",
+    "info_en":"Use the store to tune up and repair the background when you carry out the script script will run the problem.",
     "details_url" : "https://crazy.ga",
     "last_time":"2017-07-30",
     "download_url" : "http://flyercn.ml/update.zip"
