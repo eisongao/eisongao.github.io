@@ -1,7 +1,7 @@
 {
     "version":"6.0",
-    "fix_bug":"1",
-    "info_cn":"应用商店微调整下,修复后台回复带有script脚本会运行问题,顺便测更新功",
+    "fix_bug":"2",
+    "info_cn":"应用商店微调整下,修复后台回复带有script脚本会运行问题,友情链接排序问题,顺便测更新功",
     "info_en":"Use the store to tune up and repair the background when you carry out the script script will run the problem.",
     "details_url" : "https://crazy.ga",
     "last_time":"2017-07-30",
