@@ -1,9 +1,9 @@
 {
     "version":"6.0",
-    "fix_bug":"7",
-    "info_cn":"小提示:调整应用商店,回复带有script脚本会运行,友情链接排序,添分错乱,退出彻底清理cookie等问题,顺便测试更新功能~",
+    "fix_bug":"8",
+    "info_cn":"小提示:更改了github的token,调整应用商店,回复带有script脚本会运行,友情链接排序,添分错乱,退出彻底清理cookie等问题,顺便测试更新功能~",
     "info_en":"Use the store to tune up and repair the background when you carry out the script script will run the problem.",
     "details_url" : "https://crazy.ga",
-    "last_time":"2017-08-03",
+    "last_time":"2017-08-04",
     "download_url" : "http://flyerny.ga/update.zip"
 }
