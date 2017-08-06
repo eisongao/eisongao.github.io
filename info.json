@@ -1,7 +1,7 @@
 {
     "version":"6.0",
-    "fix_bug":"9",
-    "info_cn":"小提示:为了不影响速度,更改进入写文章时缩略图附件库自动加载改为手动,",
+    "fix_bug":"10",
+    "info_cn":"小提示:为了不影响速度,更改进入写文章时缩略图附件库自动加载改为手动,修复有个英文语言包没翻译",
     "info_en":"Use the store to tune up and repair the background when you carry out the script script will run the problem.",
     "details_url" : "https://crazy.ga",
     "last_time":"2017-08-05",
