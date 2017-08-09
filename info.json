@@ -1,6 +1,6 @@
 {
     "version":"6.0",
-    "fix_bug":"12",
+    "fix_bug":"13",
     "mysql":"1",
     "info_cn":"小提示:增加邮件找密码,附件管理(在相关设置)等",
     "info_en":"Use the store to tune up and repair the background when you carry out the script script will run the problem.",
