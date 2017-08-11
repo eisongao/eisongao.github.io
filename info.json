@@ -1,11 +1,11 @@
 {
     "version":"6.0",
-    "fix_bug":"15",
+    "fix_bug":"16",
     "mysql":"1",
-    "info_cn":"小提示:这更新包有大哦,速度有点慢,请耐心等待",
+    "info_cn":"小提示:更新锁屏功能等",
     "info_en":"Use the store to tune up and repair the background when you carry out the script script will run the problem.",
     "details_url" : "https://crazy.ga",
-    "last_time":"2017-08-10",
+    "last_time":"2017-08-11",
     "download_url" : "http://flyerny.ga/update.zip",
     "sql_url":"http://flyerny.ga/sql.zip"
 }
