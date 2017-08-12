@@ -2,7 +2,7 @@
     "version":"6.0",
     "fix_bug":"17",
     "mysql":"1",
-    "info_cn":"小提示:在8月12又重新打包了,由于之前的域名过了,所以如果升级出现问题,请下升级包覆盖,之前弄的升包我搞混乱了,此包修复注册功能邮箱可重复注册",
+    "info_cn":"小提示:在8月12又重新打包了,由于之前的域名过了,所以如果升级出现问题,请下升级包覆盖,之前弄的升级包我搞混乱了,升级后没问题,就不覆盖了,此包修复注册功能邮箱可重复注册",
     "info_en":"Use the store to tune up and repair the background when you carry out the script script will run the problem.",
     "details_url" : "https://crazy.ga",
     "last_time":"2017-08-13",
