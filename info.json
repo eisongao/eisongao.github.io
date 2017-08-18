@@ -1,8 +1,8 @@
 {
     "version":"6.0",
-    "fix_bug":"18",
+    "fix_bug":"20",
     "mysql":"1",
-    "info_cn":"小提示:在8月12又重新打包了,由于之前的域名过了,所以如果升级出现问题,请下升级包覆盖,之前弄的升级包我搞混乱了,升级后没问题,就不覆盖了,此包修复注册功能邮箱可重复注册",
+    "info_cn":"小提示:因有的人的有更新,有的人没更新,我的更包每次都不同,所以如果升级后出现问题,请重覆盖更新包吧！修复添加文章附件,缩略图那不及时显",
     "info_en":"Use the store to tune up and repair the background when you carry out the script script will run the problem.",
     "details_url" : "https://crazy.ga",
     "last_time":"2017-08-13",
