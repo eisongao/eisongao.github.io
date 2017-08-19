@@ -3,7 +3,7 @@
     "fix_bug":"21",
     "mysql":"2",
     "info_cn":"小提示:修复添加文章附件,缩略图那不及时显,增加宽屏和特效两个选项",
-    "info_en":"Use the store to tune up and repair the background when you carry out the script script will run the problem.",
+    "info_en":"Tips:Fixed Bug",
     "details_url" : "https://crazy.ga",
     "last_time":"2017-08-20",
     "download_url" : "https://eisongao.github.io/update.zip",
