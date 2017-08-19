@@ -2,7 +2,7 @@
     "version":"6.0",
     "fix_bug":"21",
     "mysql":"2",
-    "info_cn":"小提示:修复添加文章附件,缩略图那不及时显,增加宽屏和特效两个选项",
+    "info_cn":"小提示:修复添加文章附件,缩略图那不及时显,增加宽屏和特效两个选项,由于升级程序搞错了,请升级两次哦",
     "info_en":"Tips:Fixed Bug",
     "details_url" : "https://crazy.ga",
     "last_time":"2017-08-20",
