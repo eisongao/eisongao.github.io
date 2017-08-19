@@ -1,11 +1,12 @@
 {
     "version":"6.0",
-    "fix_bug":"20",
-    "mysql":"1",
-    "info_cn":"小提示:因有的人的有更新,有的人没更新,我的更包每次都不同,所以如果升级后出现问题,请重覆盖更新包吧！修复添加文章附件,缩略图那不及时显",
+    "fix_bug":"21",
+    "mysql":"2",
+    "info_cn":"小提示:修复添加文章附件,缩略图那不及时显,增加宽屏和特效两个选项",
     "info_en":"Use the store to tune up and repair the background when you carry out the script script will run the problem.",
     "details_url" : "https://crazy.ga",
-    "last_time":"2017-08-18",
+    "last_time":"2017-08-20",
     "download_url" : "https://eisongao.github.io/update.zip",
-    "sql_url":"https://eisongao.github.io/update.sql"
+    "downloads_url" : "https://eisongao.github.io/updates.php",
+    "sql_url":"https://eisongao.github.io/update.sql",
 }
