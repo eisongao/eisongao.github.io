@@ -1,11 +1,11 @@
 {
     "version":"6.0",
-    "fix_bug":"21",
-    "mysql":"2",
-    "info_cn":"小提示:修复添加文章附件,缩略图那不及时显,增加宽屏和特效两个选项,由于升级程序搞错了,请升级两次哦",
+    "fix_bug":"22",
+    "mysql":"3",
+    "info_cn":"小提示:增加文章编框过滤XSS选项,修复添加文章附件,缩略图那不及时显,增加宽屏和特效两个选项,",
     "info_en":"Tips:Fixed Bug",
     "details_url" : "https://crazy.ga",
-    "last_time":"2017-08-20",
+    "last_time":"2017-08-22",
     "download_url" : "https://eisongao.github.io/update.zip",
     "downloads_url" : "https://eisongao.github.io/updates.zip",
     "sql_url":"https://eisongao.github.io/update.sql"
