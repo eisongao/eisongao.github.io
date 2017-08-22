@@ -1,11 +1,11 @@
 {
     "version":"6.0",
-    "fix_bug":"22",
-    "mysql":"3",
-    "info_cn":"小提示:增加文章编框过滤XSS选项,修复添加文章附件,缩略图那不及时显,增加宽屏和特效两个选项,",
+    "fix_bug":"23",
+    "mysql":"4",
+    "info_cn":"小提示:修复友情链接分类数量不及时显示,增加自适应效果和侧边栏滚动条选项",
     "info_en":"Tips:Fixed Bug",
     "details_url" : "https://crazy.ga",
-    "last_time":"2017-08-22",
+    "last_time":"2017-08-23",
     "download_url" : "https://eisongao.github.io/update.zip",
     "downloads_url" : "https://eisongao.github.io/updates.zip",
     "sql_url":"https://eisongao.github.io/update.sql"
