@@ -1,8 +1,8 @@
 {
     "version":"6.0",
-    "fix_bug":"23",
+    "fix_bug":"24",
     "mysql":"4",
-    "info_cn":"小提示:修复友情链接分类数量和防跨域攻次数不及时显示,以及侧边设置中移端不拖动问题和商店分页样,增加自适应效果和侧边栏滚动条选项",
+    "info_cn":"小提示:不想说!修复些问题",
     "info_en":"Tips:Fixed Bug",
     "details_url" : "https://crazy.ga",
     "last_time":"2017-08-23",
