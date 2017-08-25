@@ -1,11 +1,11 @@
 {
     "version":"6.0",
-    "fix_bug":"24",
+    "fix_bug":"25",
     "mysql":"4",
-    "info_cn":"小提示:不想说!修复些问题",
+    "info_cn":"小提示:更改后台那个提示获取当天的最新留言",
     "info_en":"Tips:Fixed Bug",
     "details_url" : "https://crazy.ga",
-    "last_time":"2017-08-24",
+    "last_time":"2017-08-25",
     "download_url" : "https://eisongao.github.io/update.zip",
     "downloads_url" : "https://eisongao.github.io/updates.zip",
     "sql_url":"https://eisongao.github.io/update.sql"
