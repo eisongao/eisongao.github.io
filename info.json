@@ -1,11 +1,11 @@
 {
     "version":"6.0",
-    "fix_bug":"26",
+    "fix_bug":"27",
     "mysql":"4",
-    "info_cn":"小提示:修复后台侧栏添加组件错位",
+    "info_cn":"小提示:修复后台侧栏添加组件错位,修复前台回复为空时空白500",
     "info_en":"Tips:Fixed Bug",
     "details_url" : "https://crazy.ga",
-    "last_time":"2017-08-27",
+    "last_time":"2017-08-28",
     "download_url" : "https://eisongao.github.io/update.zip",
     "downloads_url" : "https://eisongao.github.io/updates.zip",
     "sql_url":"https://eisongao.github.io/update.sql"
