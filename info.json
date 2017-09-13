@@ -1,11 +1,11 @@
 {
     "version":"6.0",
-    "fix_bug":"28",
+    "fix_bug":"29",
     "mysql":"4",
-    "info_cn":"小提示:替换验证码,取消验证码横线和竖线",
+    "info_cn":"小提示:修插件配置保存不能及时显示问题",
     "info_en":"Tips:Fixed Bug",
     "details_url" : "https://crazy.ga",
-    "last_time":"2017-08-28",
+    "last_time":"2017-09-13",
     "download_url" : "https://eisongao.github.io/update.zip",
     "downloads_url" : "https://eisongao.github.io/updates.zip",
     "sql_url":"https://eisongao.github.io/update.sql"
