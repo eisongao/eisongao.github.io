@@ -1,11 +1,11 @@
 {
     "version":"6.0",
-    "fix_bug":"30",
+    "fix_bug":"31",
     "mysql":"4",
-    "info_cn":"小提示:修插件配置保存不能及时显示问题",
-    "info_en":"Tips:Fixed Bug",
-    "details_url" : "https://crazy.ga",
-    "last_time":"2017-09-13",
+    "info_cn":"小提示:修复编辑文章保存时缩略图失效问",
+    "info_en":"Tips:Fixed Thumb Bug",
+    "details_url" : "https://crazy.us",
+    "last_time":"2017-09-28",
     "download_url" : "https://eisongao.github.io/update.zip",
     "downloads_url" : "https://eisongao.github.io/updates.zip",
     "sql_url":"https://eisongao.github.io/update.sql"
