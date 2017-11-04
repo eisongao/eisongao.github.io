@@ -1,11 +1,11 @@
 {
     "version":"6.0",
-    "fix_bug":"31",
+    "fix_bug":"32",
     "mysql":"4",
-    "info_cn":"小提示:修复编辑文章保存时缩略图失效问题",
+    "info_cn":"小提示:添加了法语包,修改了在商店样式,修复编辑文章保存时缩略图失效问题等等",
     "info_en":"Tips:Fixed Thumb Bug",
     "details_url" : "https://crazy.us",
-    "last_time":"2017-09-28",
+    "last_time":"2017-11-04",
     "download_url" : "https://eisongao.github.io/update.zip",
     "downloads_url" : "https://eisongao.github.io/updates.zip",
     "sql_url":"https://eisongao.github.io/update.sql"
