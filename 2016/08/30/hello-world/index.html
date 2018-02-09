@@ -224,24 +224,14 @@ Quick">
 
             
             
-<div class="duoshuo">
-	<!-- 多说评论框 start -->
-	<div class="ds-thread" data-thread-key="hello-world" data-title="Hello World" data-url="http://flyerny.ga/2016/08/30/hello-world/index.html"></div>
-	<!-- 多说评论框 end -->
-	<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
-	<script type="text/javascript">
-	var duoshuoQuery = {short_name:"izheteng"};
-	(function() {
-		var ds = document.createElement('script');
-		ds.type = 'text/javascript';ds.async = true;
-		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-		ds.charset = 'UTF-8';
-		(document.getElementsByTagName('head')[0] 
-		 || document.getElementsByTagName('body')[0]).appendChild(ds);
-	})();
-	</script>
-	<!-- 多说公共JS代码 end -->
-</div>
+<!-- Valine Comments -->
+	<div class="comments vcomment" id="comments">
+	</div>
+	<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+	<script src="//unpkg.com/valine@latest/dist/Valine.min.js"></script>
+	<!-- Valine Comments script -->
+	<script>var GUEST_INFO=["nick","mail","link"],guest_info="nick,mail".split(",").filter(function(e){return GUEST_INFO.indexOf(e)>-1});new Valine({el:"#comments",notify:!1,verify:!1,appId:"qFGQzN3rtwhvCCViXNqKXPkI-gzGzoHsz",appKey:"8zCtaE47WN3Y3LXK6Yjqbs86",avatar:"retro",placeholder:"要不要说点什么？",guest_info:0==guest_info.length?GUEST_INFO:guest_info,pageSize:"20"});</script>
+	<!-- Valine Comments end -->
 
 
 
