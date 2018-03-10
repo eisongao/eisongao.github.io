@@ -1,7 +1,7 @@
 {
     "version":"6.0.1",
     "fix_bug":"0",
-    "mysql":"0",
+    "mysql":"1",
     "info_cn":"未知",
     "details_url" : "https://crazy.us",
     "last_time":"2018-03-08",
