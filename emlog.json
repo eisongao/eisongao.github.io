@@ -1,10 +1,10 @@
 {
     "version":"6.0.1",
-    "fix_bug":"1",
+    "fix_bug":"2",
     "mysql":"0",
-    "info_cn":"新增加简单的在线商店搜索功能",
+    "info_cn":"修复某些模板调用新建页使用子目录下自定义模板",
     "details_url" : "https://crazy.us",
-    "last_time":"2018-03-12",
+    "last_time":"2018-03-16",
     "download_url" : "https://eisongao.github.io/eup.zip",
     "downloads_url" : "https://eisongao.github.io/eups.zip",
     "sql_url":"https://eisongao.github.io/eup.sql"
