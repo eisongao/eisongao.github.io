@@ -1,8 +1,8 @@
 {
     "version":"6.0.1",
-    "fix_bug":"2",
+    "fix_bug":"3",
     "mysql":"0",
-    "info_cn":"修复某些模板调用新建页使用子目录下自定义模板",
+    "info_cn":"修复新建页使用子目录下自定义模板调用无效问题,修复防御自动添加小黑屋,及修复邮件通知smtp不用问题",
     "details_url" : "https://crazy.us",
     "last_time":"2018-03-16",
     "download_url" : "https://eisongao.github.io/eup.zip",
