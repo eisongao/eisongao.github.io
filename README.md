@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm FLYERME</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eisongao&label=Profile%20views&color=0e75b6&style=flat" alt="eisongao" /> </p>
-<div> <a href="https://twitter.com/ " target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<div> <a href="https://x.com/eisongao" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/eisongao" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
